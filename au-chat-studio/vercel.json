@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "functions": {
+    "api/ai.js": {
+      "runtime": "nodejs24.x",
+      "maxDuration": 60
+    }
+  }
+}
